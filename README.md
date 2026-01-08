@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on scaling products at Ayrasoft and building cross-platform apps with Electron & Python.<br><br>👯 I’m looking to collaborate on innovative Hackathons, open-source dev tools, and tech volunteering initiatives.<br><br>🤝 I’m looking for help with optimizing performance for heavy desktop applications.<br><br>🌱 I’m currently learning Advanced Software Architecture and Enterprise Java development.<br><br>💬 Ask me about leading a NASA Space Apps Global Nominee team, startup life, or Full Stack Dev (JS/Python).<br><br>⚡ Fun fact I balance running a tech startup while surviving engineering engineering exams! ☕
+🔭 I’m currently working on scaling products and building cross-platform apps with Electron & Python.<br><br>👯 I’m looking to collaborate on innovative Hackathons, open-source dev tools, and tech volunteering initiatives.<br><br>🤝 I’m looking for help with optimizing performance for heavy desktop applications.<br><br>🌱 I’m currently learning Advanced Software Architecture and Enterprise Java development.<br><br>💬 Ask me about leading a NASA Space Apps Global Nominee team, startup life, or Full Stack Dev (JS/Python).<br><br>⚡ Fun fact I balance running a tech startup while surviving engineering engineering exams! ☕
 
 
 ## 🌐 Socials:
