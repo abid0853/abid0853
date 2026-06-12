@@ -38,6 +38,9 @@
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abid0853&custom_title=Annual%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=7F3FBF&point=FFFFFF&area=true"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bava-kurian/bava-kurian/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abid0853&theme=radical&no-frame=false&no-bg=false&margin-w=4)
